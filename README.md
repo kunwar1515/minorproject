@@ -1,0 +1,2 @@
+# minorproject
+python internship project
